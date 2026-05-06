@@ -1,4 +1,4 @@
-# Peter Matis - Cisco Packet Tracer Projects
+# P Matis - Cisco Packet Tracer Projects
 
 Collection of Cisco Packet Tracer networking labs and enterprise network simulations completed through Cisco Networking Academy learning.
 
